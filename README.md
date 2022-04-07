@@ -6,6 +6,6 @@
 ### Nos encontraremos que empieza a desempaquetar archivos:
 ![imagen](https://user-images.githubusercontent.com/91874629/162188433-c9aa5c21-ca21-4164-80cb-2d2ca5fc228a.png)
 
-Una vez instalado tenemos que reiniciar:
+### Una vez instalado tenemos que reiniciar:
 ![imagen](https://user-images.githubusercontent.com/91874629/162189198-bd127810-47e1-405a-8ccb-554a9f6cec48.png)
 
